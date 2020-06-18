@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Better Loadouts
+## Notes: Provides the ability to create custom gear loadouts including talents, essences, etc.
+## Author: BasePet
+## Version: 0.1.0
+
+main.lua
